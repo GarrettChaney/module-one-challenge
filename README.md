@@ -13,3 +13,7 @@ This project requires no modules outside of the provided files.
 
 This project requires no installation, and is currently running at the following URL:
     - 
+    
+## Mockup of Website:
+
+    ![Mockup website](/Assets/images/01-html-css-git-homework-demo.png)
