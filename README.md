@@ -16,4 +16,4 @@ This project requires no installation, and is currently running at the following
     
 ## Mockup of Website:
 
-    ![Mockup website](/Assets/images/01-html-css-git-homework-demo.png)
+![Mockup website!](./Assets/images/mock-up.png)
