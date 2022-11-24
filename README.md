@@ -4,7 +4,7 @@
 This repository reflects the first challenge given to students in the Monash University Coding Bootcamp.
 
 ## Description:
-The goal of this challenge was to completely rewrite the provided website in a legible, professional format using semantic HTML terminology. Rebuilding this project has given me further confidence and understanding when it comes to industry standards of HTML and CSS formatting, and I was able to learn and identify more semantic elements that I was previously unaware of.
+The goal of this challenge was to completely refactor the provided website in a legible, professional format using semantic HTML terminology. Rebuilding this project has given me further confidence and understanding when it comes to industry standards of HTML and CSS formatting, and I was able to identify and utilise more semantic elements that I was previously unaware of.
 
 ## Requirements: 
 This project requires no modules outside of the provided files.

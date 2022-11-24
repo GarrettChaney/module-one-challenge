@@ -1,9 +1,10 @@
+/*Global Elements*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* Moved 'a' and 'p' elements nearer to top as they impact the entire page.*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -17,7 +18,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Removed header class, added header element.*/
+/*Header Element*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,7 +35,6 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Replaced div with nav element*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,7 +52,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/*Isolated hero-image in figure with ID*/
+/*Hero-Image*/
 #hero-image {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ header nav ul li {
     background-position: center;
 }
 
-/*Rewrote section to remove repetitive styling and add semantic elements.*/
+/*Main > Section Element*/
 section {
     width: 75%;
     display: inline-block;
@@ -98,7 +98,7 @@ section .float-right {
     margin-left: 25px;
 }
 
-/*Rewrote aside to remove repetitive styling and add semantic elements.*/
+/*Main > Aside Element*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -126,7 +126,7 @@ aside .benefit-article img {
     max-width: 150px;
 }
 
-/*Rewrote footer to remove repetitive styling and add semantic elements.*/
+/*Footer Element*/
 footer {
     padding: 30px;
     clear: both;
