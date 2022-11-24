@@ -12,8 +12,8 @@ This project requires no modules outside of the provided files.
 ## Installation:
 
 This project requires no installation, and is currently running at the following URL:
-    - 
+    -  https://garrettchaney.github.io/module-one-challenge/
     
-## Mockup of Website: https://garrettchaney.github.io/module-one-challenge/
+## Mockup of Website:
 
 ![Mockup website!](./images/mock-up.png)
